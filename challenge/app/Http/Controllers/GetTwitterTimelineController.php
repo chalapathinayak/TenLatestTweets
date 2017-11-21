@@ -17,10 +17,10 @@ class GetTwitterTimelineController extends Controller
 
 
         $settings = array(
-            'oauth_access_token'        => "581581424-1LDcH4jHKOXD2oXSQVHYjfXNEIvDygUcicMigNZ5",
-            'oauth_access_token_secret' => "Ehr2wAtKTTFKtawu8KT5cnFx3AzrMk9Edf1SfzfHHDrI3",
-            'consumer_key'              => "0vyyMpoT0KSGKVrpNHNO6CyES",
-            'consumer_secret'           => "ijwuztUPsUJDFVU6o0CflusS2pJ671RNV3LzeeASjWKZTvJoVt",
+            'oauth_access_token'        => "xxxxxxxxxxxxxxxxxxxxxxxx",
+            'oauth_access_token_secret' => "xxxxxxxxxxxxxxxxxxxxxxxx",
+            'consumer_key'              => "xxxxxxxxxxxxxxxxxxxxxxxx",
+            'consumer_secret'           => "xxxxxxxxxxxxxxxxxxxxxxxx",
 
         );
         $url = 'https://api.twitter.com/1.1/statuses/user_timeline.json';
